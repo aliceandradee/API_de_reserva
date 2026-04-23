@@ -43,8 +43,6 @@ O projeto utiliza uma arquitetura em camadas para garantir que cada parte do có
 
 ## Métodos presentes na interface - (GET, POST, PUT, DELETE)
 
-## Métodos presentes na interface - (GET, POST, PUT, DELETE)
-
 | Metódos 📝 | Funcionalidade 💻 |
 | :--- | :--- |
 | **GET** | Listagem assíncrona de todas as reservas cadastradas. |
