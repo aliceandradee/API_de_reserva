@@ -36,7 +36,7 @@ O projeto utiliza uma arquitetura em camadas para garantir que cada parte do có
 
 ## Conexão e comandos para o Banco De Dados
 
-- **dotnet ef migrations add:** Gera o histórico de criação das tabelas baseado nas Models.
+- **dotnet ef migrations add InitialCreate:** Gera o histórico de criação das tabelas baseado nas Models.
 - **dotnet ef database update:** Cria o arquivo físico `.db` e estrutura o banco de dados.
 
 ---
